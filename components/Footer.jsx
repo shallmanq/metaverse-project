@@ -29,7 +29,9 @@ const Footer = () => (
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white">Discover</span>
+          <span className="font-normal text-[16px] text-white">
+            Discover Mertaverse
+          </span>
         </button>
       </div>
 
