@@ -39,7 +39,7 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <Link href={"/"}>
+          <Link href="/">
             <img
               src="/virtualPerspective-logo.png"
               alt="virtualPerspective-logo"
