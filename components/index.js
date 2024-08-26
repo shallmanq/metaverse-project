@@ -14,5 +14,6 @@ export {
   NewFeatures,
   ExploreCard,
   InsightCard,
+  // eslint-disable-next-line
   Footer
 };

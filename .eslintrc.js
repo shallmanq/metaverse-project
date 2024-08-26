@@ -53,6 +53,7 @@ module.exports = {
       }
     ],
     quotes: ["error", "double"],
+    "arrow-parens": ["error", "as-needed"],
     "object-curly-newline": 0,
     "react/jsx-filename-extension": 0,
     "react/jsx-one-expression-per-line": 0,
