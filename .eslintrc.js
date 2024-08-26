@@ -13,7 +13,6 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    quotes: ["error", "double"],
     "react/no-unescaped-entities": 0,
     "eslintreact/no-danger": 0,
     "react/jsx-max-props-per-line": 0,
@@ -53,6 +52,7 @@ module.exports = {
         allow: ["_d", "_dh", "_h", "_id", "_m", "_n", "_t", "_text"]
       }
     ],
+    quotes: ["error", "double"],
     "object-curly-newline": 0,
     "react/jsx-filename-extension": 0,
     "react/jsx-one-expression-per-line": 0,
